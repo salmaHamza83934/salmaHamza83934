@@ -5,9 +5,12 @@
 
 <h2 align="center"> 🚀 Flutter Developer | Transforming Ideas into Seamless Mobile Experiences 📱 💡 </h2>
 
-- 🔥 On a journey to create smooth and simple mobile apps with Flutter and Dart.
+  - 🔥 On a journey to create smooth and simple mobile apps with Flutter and Dart. 
+  - 📬 How to reach me: **salma.hamza.4512@gmail.com**.
+<p align="right" style="display: flex; justify-content: flex-end; align-items: center;">
+  <img src="https://github.com/user-attachments/assets/cb3ae532-2fcc-41dc-8544-c5592e72779c" width="400" height="300" alt="image" style="margin-left: 10px;"/>
+</p>
 
-- 📬 How to reach me: **salma.hamza.4512@gmail.com**
 
 <h2 align="left"> <img src="https://github.com/user-attachments/assets/481addf9-5315-47a0-897b-451481d87e73" width="40" style="vertical-align: middle;"/> Connect with me : </h2>
    <a href="https://linkedin.com/in/salma-hamza-7a28b7266" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="salma-hamza-7a28b7266" height="50" width="50" /></a>
