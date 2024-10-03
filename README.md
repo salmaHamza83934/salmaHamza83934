@@ -8,7 +8,7 @@
   - 🔥 On a journey to create smooth and simple mobile apps with Flutter and Dart. 
   - 📬 How to reach me: **salma.hamza.4512@gmail.com**.
 <p align="right" style="display: flex; justify-content: flex-end; align-items: center;">
-  <img src="https://github.com/user-attachments/assets/cb3ae532-2fcc-41dc-8544-c5592e72779c" width="400" height="300" alt="image" style="margin-left: 10px;"/>
+  <img src="https://github.com/user-attachments/assets/cb3ae532-2fcc-41dc-8544-c5592e72779c" width="280" height="200" alt="image" style="margin-left: 10px;"/>
 </p>
 
 
