@@ -4,13 +4,14 @@
 </h1>
 
 <h2 align="center"> 🚀 Flutter Developer | Transforming Ideas into Seamless Mobile Experiences 📱 💡 </h2>
+  <img align ="right" src="https://github.com/user-attachments/assets/cb3ae532-2fcc-41dc-8544-c5592e72779c" width="260" height="180" alt="image" style="margin-left: 10px;"/>
 
-  - 🔥 On a journey to create smooth and simple mobile apps with Flutter and Dart. 
-  - 📬 How to reach me: **salma.hamza.4512@gmail.com**.
-<p align="right" style="display: flex; justify-content: flex-end; align-items: center;">
-  <img src="https://github.com/user-attachments/assets/cb3ae532-2fcc-41dc-8544-c5592e72779c" width="280" height="200" alt="image" style="margin-left: 10px;"/>
-</p>
 
+  ### - 🔥 On a journey to create smooth and simple mobile apps with Flutter and Dart. 
+  ### - 📬 How to reach me: **salma.hamza.4512@gmail.com**.
+
+</br>
+</br>
 
 <h2 align="left"> <img src="https://github.com/user-attachments/assets/481addf9-5315-47a0-897b-451481d87e73" width="40" style="vertical-align: middle;"/> Connect with me : </h2>
    <a href="https://linkedin.com/in/salma-hamza-7a28b7266" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="salma-hamza-7a28b7266" height="50" width="50" /></a>
@@ -21,9 +22,11 @@
 <h2 align="left">  <img src="https://github.com/user-attachments/assets/5f64014d-1e8e-4b7f-b35a-7dcfb7772d9e" width="40" style="vertical-align: middle;"/> GitHub Statistics </h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=salmaHamza83934&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=salmaHamza83934&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=salmaHamza83934&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=salmaHamza83934&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
+
+###
 
 <h2 align="left"> GitHub Contributions </h2>
 <img src="https://raw.githubusercontent.com/salmaHamza83934/salmaHamza83934/output/snake.svg" alt="Snake animation" />
