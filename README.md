@@ -4,11 +4,14 @@
 </h1>
 
 <h2 align="center"> 🚀 Flutter Developer | Transforming Ideas into Seamless Mobile Experiences 📱 💡 </h2>
- <img align ="right" src="https://github.com/user-attachments/assets/21085da7-b676-45d6-ab9c-234b058f621a" width="260" height="180" alt="image" style="margin-left: 10px;"/>
 
  #### - 🔥 On a journey to create smooth and simple mobile apps with Flutter and Dart.
  #### - 📬 How to reach me: **salma.hamza.4512@gmail.com**.
+ 
+ <img align ="right" src="https://github.com/user-attachments/assets/21085da7-b676-45d6-ab9c-234b058f621a" width="260" height="180" alt="image" style="margin-left: 10px;"/>
 
+</br>
+</br>
 </br>
 </br>
 </br>
