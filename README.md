@@ -28,7 +28,7 @@
 
 ###
 
-<h2 align="left"> GitHub Contributions </h2>
+<h2 align="left">🐍 GitHub Contributions </h2>
 <img src="https://raw.githubusercontent.com/salmaHamza83934/salmaHamza83934/output/snake.svg" alt="Snake animation" />
 
 ###
