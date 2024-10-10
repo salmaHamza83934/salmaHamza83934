@@ -16,8 +16,8 @@
 </br>
 </br>
 </br>
-
-<h2 align="left"> <img src="https://github.com/user-attachments/assets/481addf9-5315-47a0-897b-451481d87e73" width="40" style="vertical-align: middle;"/> Connect with me : </h2>
+</br>
+<h2 align="left">  <img src="https://github.com/user-attachments/assets/481addf9-5315-47a0-897b-451481d87e73" width="40" style="vertical-align: middle;"/> Connect with me : </h2>
    <a href="https://linkedin.com/in/salma-hamza-7a28b7266" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="salma-hamza-7a28b7266" height="50" width="50" /></a>
 
 <h2 align="left">  <img src="https://github.com/user-attachments/assets/61985dd4-1d29-4356-9353-559d6213c9bb" width="40" style="vertical-align: middle;"/> Languages and Tools:</h2>
