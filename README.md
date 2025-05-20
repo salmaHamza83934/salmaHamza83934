@@ -11,6 +11,8 @@
 ### - 🚀 Always learning, experimenting, and improving with every dataset and model.
 
 ### - 📬 Reach me at: salma.hamza.4512@gmail.com.
+
+### - 🔗 Connect with me: <a href="https://linkedin.com/in/salma-hamza-7a28b7266" target="blank"> LinkedIn </a>
  
  <img align ="right" src="https://github.com/user-attachments/assets/21085da7-b676-45d6-ab9c-234b058f621a" width="260" height="180" alt="image" style="margin-left: 10px;"/>
 
@@ -20,9 +22,6 @@
 </br>
 </br>
 </br>
-<h2 align="left">  <img src="https://github.com/user-attachments/assets/481addf9-5315-47a0-897b-451481d87e73" width="40" style="vertical-align: middle;"/> Connect with me : </h2>
-   <a href="https://linkedin.com/in/salma-hamza-7a28b7266" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="salma-hamza-7a28b7266" height="40" width="40" /></a>
-
 <h2 align="left">  <img src="https://github.com/user-attachments/assets/61985dd4-1d29-4356-9353-559d6213c9bb" width="40" style="vertical-align: middle;"/> Languages and Tools:</h2>
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.scala-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scala/scala-original.svg" alt="scala" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </p>
 
