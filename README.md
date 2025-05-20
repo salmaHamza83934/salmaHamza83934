@@ -1,4 +1,4 @@
-<img src="https://github.com/user-attachments/assets/de7f3594-0310-4c2b-bd8c-1b2f942a049c" alt="Your Image"/>
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Your Image"/>
 <h1 align="center">
   Hello, I'm Salma Hamza 👋
 </h1>
