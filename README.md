@@ -10,6 +10,8 @@
 
 ### - 🚀 Always learning, experimenting, and improving with every dataset and model.
 
+### - 🔐 Interested in Network, Cybersecurity, and Ethical Hacking.
+
 ### - 📬 Reach me at: salma.hamza.4512@gmail.com.
 
 ### - 🔗 Connect with me: <a href="https://linkedin.com/in/salma-hamza-7a28b7266" target="blank"> LinkedIn </a>
