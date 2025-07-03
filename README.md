@@ -3,14 +3,12 @@
   Hello, I'm Salma Hamza 👋
 </h1>
 
-<h2 align="center"> 🚀 Junior Data Analyst & AI Engineer | interested in Cybersecurity | Transforming Data into Insights & Intelligent Solutions💡 </h2>
+<h2 align="center"> 🚀 Cybersecurity Enthusiast | Junior Data Analyst & AI Engineer | Ex-Flutter Developer </h2>
 <br>
 
-### - 🔥 Exploring data analysis and AI to solve real-world problems.
-
-### - 🚀 Always learning, experimenting, and improving with every dataset and model.
-
-### - 🔐 Interested in Network, Cybersecurity, and Ethical Hacking.
+### - 🔒 Focused on Cybersecurity, exploring network security and ethical hacking.
+### - 🧠 Beginner in data analysis and artificial intelligence, using foundational skills to support cybersecurity solutions.
+### - 💻 Previously a Flutter developer.
 
 ### - 📬 Reach me at: salma.hamza.4512@gmail.com.
 
