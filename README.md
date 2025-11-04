@@ -3,7 +3,7 @@
   Hello, I'm Salma Hamza 👋
 </h1>
 
-<h2 align="center"> 🚀 Cybersecurity Enthusiast | Junior Data Analyst & AI Engineer | Ex-Flutter Developer </h2>
+<h2 align="center"> 🚀 Cybersecurity Engineer | Junior Data Analyst & AI Engineer | Flutter Developer </h2>
 <br>
 
 ### - 🔒 Focused on Cybersecurity, exploring network security and ethical hacking.
